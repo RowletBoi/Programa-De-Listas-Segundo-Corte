@@ -1,0 +1,28 @@
+C:\Programación Estructurada\Pograma Listas Segundo Corte\Ejercicio3\bin\Debug\net9.0\Ejercicio3.exe
+C:\Programación Estructurada\Pograma Listas Segundo Corte\Ejercicio3\bin\Debug\net9.0\Ejercicio3.deps.json
+C:\Programación Estructurada\Pograma Listas Segundo Corte\Ejercicio3\bin\Debug\net9.0\Ejercicio3.runtimeconfig.json
+C:\Programación Estructurada\Pograma Listas Segundo Corte\Ejercicio3\bin\Debug\net9.0\Ejercicio3.dll
+C:\Programación Estructurada\Pograma Listas Segundo Corte\Ejercicio3\bin\Debug\net9.0\Ejercicio3.pdb
+C:\Programación Estructurada\Pograma Listas Segundo Corte\Ejercicio3\obj\Debug\net9.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programación Estructurada\Pograma Listas Segundo Corte\Ejercicio3\obj\Debug\net9.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\Programación Estructurada\Pograma Listas Segundo Corte\Ejercicio3\obj\Debug\net9.0\Ejercicio3.AssemblyInfo.cs
+C:\Programación Estructurada\Pograma Listas Segundo Corte\Ejercicio3\obj\Debug\net9.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Programación Estructurada\Pograma Listas Segundo Corte\Ejercicio3\obj\Debug\net9.0\Ejercicio3.dll
+C:\Programación Estructurada\Pograma Listas Segundo Corte\Ejercicio3\obj\Debug\net9.0\refint\Ejercicio3.dll
+C:\Programación Estructurada\Pograma Listas Segundo Corte\Ejercicio3\obj\Debug\net9.0\Ejercicio3.pdb
+C:\Programación Estructurada\Pograma Listas Segundo Corte\Ejercicio3\obj\Debug\net9.0\Ejercicio3.genruntimeconfig.cache
+C:\Programación Estructurada\Pograma Listas Segundo Corte\Ejercicio3\obj\Debug\net9.0\ref\Ejercicio3.dll
+C:\Users\denis\OneDrive\Desktop\Pograma Listas Segundo Corte\Ejercicio3\bin\Debug\net9.0\Ejercicio3.exe
+C:\Users\denis\OneDrive\Desktop\Pograma Listas Segundo Corte\Ejercicio3\bin\Debug\net9.0\Ejercicio3.deps.json
+C:\Users\denis\OneDrive\Desktop\Pograma Listas Segundo Corte\Ejercicio3\bin\Debug\net9.0\Ejercicio3.runtimeconfig.json
+C:\Users\denis\OneDrive\Desktop\Pograma Listas Segundo Corte\Ejercicio3\bin\Debug\net9.0\Ejercicio3.dll
+C:\Users\denis\OneDrive\Desktop\Pograma Listas Segundo Corte\Ejercicio3\bin\Debug\net9.0\Ejercicio3.pdb
+C:\Users\denis\OneDrive\Desktop\Pograma Listas Segundo Corte\Ejercicio3\obj\Debug\net9.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\OneDrive\Desktop\Pograma Listas Segundo Corte\Ejercicio3\obj\Debug\net9.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\denis\OneDrive\Desktop\Pograma Listas Segundo Corte\Ejercicio3\obj\Debug\net9.0\Ejercicio3.AssemblyInfo.cs
+C:\Users\denis\OneDrive\Desktop\Pograma Listas Segundo Corte\Ejercicio3\obj\Debug\net9.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Desktop\Pograma Listas Segundo Corte\Ejercicio3\obj\Debug\net9.0\Ejercicio3.dll
+C:\Users\denis\OneDrive\Desktop\Pograma Listas Segundo Corte\Ejercicio3\obj\Debug\net9.0\refint\Ejercicio3.dll
+C:\Users\denis\OneDrive\Desktop\Pograma Listas Segundo Corte\Ejercicio3\obj\Debug\net9.0\Ejercicio3.pdb
+C:\Users\denis\OneDrive\Desktop\Pograma Listas Segundo Corte\Ejercicio3\obj\Debug\net9.0\Ejercicio3.genruntimeconfig.cache
+C:\Users\denis\OneDrive\Desktop\Pograma Listas Segundo Corte\Ejercicio3\obj\Debug\net9.0\ref\Ejercicio3.dll
